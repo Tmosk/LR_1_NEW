@@ -1,0 +1,3 @@
+C:/Users/Tsimophey/CLionProjects/LR_1_NEW/cmake-build-debug/CMakeFiles/LR_1_NEW.dir
+C:/Users/Tsimophey/CLionProjects/LR_1_NEW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tsimophey/CLionProjects/LR_1_NEW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
